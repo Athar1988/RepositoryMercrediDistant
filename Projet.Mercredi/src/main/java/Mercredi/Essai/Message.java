@@ -12,6 +12,9 @@ A.AffichageMessage();
 for(int i=0;i<10;i++){
 B.AffichageErreur();
 }
+for(int i=0;i<10;i++){
+B.AffichageErreur();
+}
 	}
 
 }
