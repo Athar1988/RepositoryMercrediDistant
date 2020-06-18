@@ -76,7 +76,7 @@
 <configuration>
 <archive>
 <manifest>
-<mainClass>org.Test.Git.Eclipse.TestEclipse</mainClass>
+<mainClass>Mercredi.Essai.Message</mainClass>
 </manifest>
 </archive>
 </configuration>
